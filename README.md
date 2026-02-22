@@ -17,6 +17,3 @@ This dashboard analyzes employee attrition patterns and workforce metrics.
 - Higher attrition in first 2 years
 - Research & Development department shows higher exits
 - Work-life balance impacts attrition
-
-## 🚀 Live Dashboard
-(Add Power BI link here)
